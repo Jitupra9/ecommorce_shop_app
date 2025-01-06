@@ -1,0 +1,36 @@
+    <header class="bg-blue-600 text-white py-4">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Product Details</h1>
+            <nav>
+                <a href="#" class="text-white hover:text-gray-300 px-4">Home</a>
+                <a href="#" class="text-white hover:text-gray-300 px-4">Shop</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Payment</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+</head>
+<body class="bg-gray-100">
+
+    <!-- Product Info Section -->
+    <div class="max-w-7xl mx-auto p-8 bg-white rounded-lg shadow-lg mt-12">
+        <h2 class="text-3xl font-semibold text-gray-800">Smartphone XYZ</h2>
+        <p class="text-xl text-gray-600 mt-4">The latest smartphone with cutting-edge technology, a powerful camera, and long battery life.</p>
+        <p class="text-lg font-bold text-gray-900 mt-6">$799.99</p>
+        <button id="payNowBtn" class="bg-blue-500 text-white px-6 py-3 rounded-md mt-6 hover:bg-blue-600">Pay Now</button>
+    </div>
+
+    <!-- Payment Modal Popup -->
+   
+
+
+</body>
+</html>
