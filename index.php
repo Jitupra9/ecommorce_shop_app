@@ -10,12 +10,8 @@
 <body>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
    <?php
-   include_once 'Home/header.php';
-   include_once 'Home/productheader.php';
-   include_once 'Home/discounttmp.php';
-   include_once 'Home/homeproducts.php';
-   include_once 'Home/popup.php';
-   include_once 'Home/footer.php';
+   include_once 'user/pages/home.php';
+   include_once 'popup.php';
    ?>
 
 </body>

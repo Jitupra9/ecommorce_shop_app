@@ -6,7 +6,7 @@
         </div>
         <div class="border-2 px-3 py-1 rounded-md cursor-pointer ">
             <span clas="border-2"><i class="fa-regular fa-user"></i></span>
-            <span>JITU</span>
+            <span>Login</span>
         </div>
         <div class="border-2 px-3 py-1 rounded-md cursor-pointer">
             <span clas="border-2"><i class="fa-solid fa-cart-plus"></i></span>

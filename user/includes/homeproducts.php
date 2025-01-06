@@ -21,7 +21,7 @@
                         <p class="text-gray-600"><?php echo $product['price']; ?></p>
                         <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                     </div>
                 <?php } ?>
@@ -48,7 +48,7 @@
                         <p class="text-gray-600"><?php echo $product['price']; ?></p>
                         <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                     </div>
                 <?php } ?>
@@ -77,7 +77,7 @@
                             <p class="text-gray-600"><?php echo $product['price']; ?></p>
                             <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                             <p class="text-gray-600"><?php echo $product['price']; ?></p>
                             <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                             <p class="text-gray-600"><?php echo $product['price']; ?></p>
                             <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                         </div>
                         
@@ -179,7 +179,7 @@
                         </button>
                         <button
                             class="absolute top-2 right-2 bg-gray-800 text-white text-xs py-1 px-2 rounded hover:bg-gray-700 transition duration-300">
-                            <a href="product/details.php">Quick View</a>
+                            <a href="user/pages/product.php">Quick View</a>
                         </button>
                     </div>
                 </div>

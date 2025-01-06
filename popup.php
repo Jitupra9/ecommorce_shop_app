@@ -14,7 +14,7 @@
             <p class="mt-2 text-sm text-gray-500">Offer valid for a limited time only. Don't miss out!</p>
 
             <div class="mt-8">
-                <a href="/shop-now" class="bg-indigo-600 text-white py-3 px-6 rounded-lg text-lg hover:bg-indigo-700 transition duration-300">
+                <a href="/" class="bg-indigo-600 text-white py-3 px-6 rounded-lg text-lg hover:bg-indigo-700 transition duration-300">
                     Start Shopping Now
                 </a>
             </div>
