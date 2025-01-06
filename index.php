@@ -11,7 +11,8 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
    <?php
    include_once 'user/pages/home.php';
-   include_once 'popup.php';
+   // include_once 'Admin/pages/dashboard.php';
+//    include_once 'user/config/conn.php';
    ?>
 
 </body>

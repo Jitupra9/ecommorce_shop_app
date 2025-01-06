@@ -7,11 +7,13 @@
 </head>
 <body>
     <?php
+    session_start();
     include_once 'user/includes/header.php';
     include_once 'user/includes/productheader.php';
     include_once 'user/includes/discounttmp.php';
     include_once 'user/includes/homeproducts.php';
     include_once 'user/includes/footer.php';
+    include_once 'popup.php';
     ?>
 </body>
 </html>
